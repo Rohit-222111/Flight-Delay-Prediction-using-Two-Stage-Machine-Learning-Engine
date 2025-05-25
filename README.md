@@ -165,12 +165,9 @@ Insights:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/flight-delay-prediction.git
-cd flight-delay-prediction
-
+https://github.com/Rohit-222111/Flight-Delay-Prediction-using-Two-Stage-Machine-Learning-Engine.git
 # Install dependencies
 pip install -r requirements.txt
 
 # Run pipeline
 python pipeline.py
-
