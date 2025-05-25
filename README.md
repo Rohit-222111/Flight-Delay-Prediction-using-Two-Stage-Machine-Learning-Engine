@@ -6,6 +6,7 @@ This project builds a two-stage machine learning pipeline to predict flight dela
 
 ## 📁 Project Structure
 
+<pre>
 📦flight-delay-prediction/
 ┣ 📂data/ # Merged flight and weather datasets
 ┣ 📂models/ # Saved ML models
@@ -13,6 +14,7 @@ This project builds a two-stage machine learning pipeline to predict flight dela
 ┣ 📜pipeline.py # Final ML pipeline script
 ┣ 📜README.md # Project documentation
 ┗ 📜requirements.txt # Python dependencies
+</pre>
 
 
 ---
