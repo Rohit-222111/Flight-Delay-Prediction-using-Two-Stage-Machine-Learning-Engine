@@ -29,8 +29,8 @@ This project builds a two-stage machine learning pipeline to predict flight dela
 Build a **two-stage predictive ML engine** to forecast the on-time performance of U.S. domestic flights.
 
 ### 📚 Dataset Sources:
-- **Flight data (2016–2017)** – [Link to flight data](#)
-- **Weather data (2016–2017)** – [Link to weather data](#)
+- **Flight data (2016–2017)** – https://drive.google.com/folderview?id=1SG-U-9j-kq79JT3_M3j0wiZBjUTQLaqf
+- **Weather data (2016–2017)** – https://drive.google.com/open?id=1FH3SzcDlcDVy4QkwB7z4VNi1bE18d0JA
 
 ### ✈️ Airports Considered:
 `ATL, CLT, DEN, DFW, EWR, IAH, JFK, LAS, LAX, MCO, MIA, ORD, PHX, SEA, SFO`
